@@ -19,7 +19,7 @@
 # For more info:
 # https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5---3rd-party-Hardware-specification
 
-name=Adafruit SAMD (32-bits ARM Cortex-M0+ and Cortex-M4) Boards
+name=Smooth SAMD
 version=1.2.3
 
 # Compile variables
